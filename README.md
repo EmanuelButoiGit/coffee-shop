@@ -28,7 +28,7 @@ A lightweight C# Form Application designed to facilitate the ordering process at
 ### Prerequisites
 
 - .NET Framework 4.8 or higher
-- Visual Studio 2019 or higher
+- Visual Studio 2017 or higher
 
 ### Installation
 
