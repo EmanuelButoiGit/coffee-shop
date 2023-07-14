@@ -44,8 +44,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 📮 Contact
-GitHub @EmanuelButoiGit
-LinkedIn [Emanuel Butoi](https://www.linkedin.com/in/emanuel-sebastian-butoi-929271213/)
+[Emanuel Butoi](https://www.linkedin.com/in/emanuel-sebastian-butoi-929271213/)
 
 <br>
 
