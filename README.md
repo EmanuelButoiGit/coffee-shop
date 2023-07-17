@@ -37,14 +37,15 @@ A lightweight C# Form Application designed to facilitate the ordering process at
 git clone https://github.com/EmanuelButoiGit/coffee-shop.git
 ```
 
-🤝 Contribution Guidelines
+## 🤝 Contribution Guidelines
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-📮 Contact
-[Emanuel Butoi](https://www.linkedin.com/in/emanuel-sebastian-butoi-929271213/)
+## 📮 Contact
+- GitHub [@EmanuelButoiGit](https://github.com/{EmanuelButoiGit})
+- LinkedIn [Emanuel-Sebastian Butoi](https://www.linkedin.com/in/{emanuel-sebastian-butoi-929271213})
 
 <br>
 
